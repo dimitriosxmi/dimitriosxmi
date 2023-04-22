@@ -1,10 +1,34 @@
 ## Heyo! I'm Dimitrios :wave:
-| Type of introduction | Introduction|
+
+### Contents:
+  - [Introduction 👋](#introduction--back-to-contents-)
+  - [Socials 📢](#socials--back-to-contents-)
+  - [Favourite Tools 🔧](#favourite-tools--back-to-contents-)
+  - [Github Stats and Activity](#github-stats-and-activity--back-to-contents-)
+  
+
+### Introduction 👋 <a href="#contents"><sup>back to contents ⬆</sup></a>
+| Type | Introduction|
 | - | - |
-| Professional | I specialize in [Full Stack :books:](#full-stack-development), and Game development :video_game: |
+| Professional | I specialize in [Full Stack 📚](#full-stack-development--back-to-contents-), and [Game development 🎮](#game-development--back-to-contents-) |
 | Personal | I'm a developer, but above all I'm human. That means I have passions that get me moving and enjoying the beauty in putting ingredients together to make something  new and tasty. Could be a meal, a dev project, even a new organization system. |
 
-#### Full Stack Development :books:
+
+#### Full Stack Development 📚 <a href="#contents"><sup>back to contents ⬆</sup></a>
+#### Game Development 🎮 <a href="#contents"><sup>back to contents ⬆</sup></a>
+---
+### Socials 📢 <a href="#contents"><sup>back to contents ⬆</sup></a>
+---
+### Favourite Tools 🔧 <a href="#contents"><sup>back to contents ⬆</sup></a>
+---
+### Github Stats and Activity 📊 <a href="#contents"><sup>back to contents ⬆</sup></a>
+#### Streak Stats
+[![Dimitrios GitHub Streak](https://streak-stats.demolab.com/?user=dimitriosxmi&theme=transparent)](https://git.io/streak-stats)
+#### Profile Stats
+[![Dimitrios GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriosxmi&theme=transparent)](https://github.com/dimitriosxmi/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriosxmi&theme=transparent)](https://github.com/dimitriosxmi/github-readme-stats)
+#### Graphs
+[![Dimitrios github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dimitriosxmi&theme=transparent)](https://github.com/dimitriosxmi/github-readme-activity-graph)
 
 I am interested in all sorts of development in software *currently* I specialize in 🎮Game-, and 📚Full-Stack development.
 ### Here are some cool facts about me:
@@ -16,4 +40,5 @@ I am interested in all sorts of development in software *currently* I specialize
 | ----------- | ----------- |
 | <img src="https://i.imgur.com/dGxLYmh.gif" alt="cute doggo wagging it's tail .GIF" width="200" height="200"> | *Also check this happy cute dog I've just encountered in giphy.com* 🥰 |
 
-![Dimitrios's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriosxmi&show_icons=true&theme=transparent)
+
+
