@@ -1,5 +1,32 @@
 ## Heyo! I'm Dimitrios :wave:
 
+$${\color{white}THIS}$$
+
+$${\color{white}PROFILE}$$
+
+$${\color{white}IS}$$
+
+$${\color{white}STILL}$$
+
+$${\color{white}IN}$$
+
+$${\color{white}A}$$
+
+$${\color{white}WORK}$$
+
+$${\color{white}IN}$$
+
+$${\color{white}PROGRESS}$$
+
+$${\color{white}PHASE}$$
+
+$${\color{white}AS}$$
+
+$${\color{white}OF}$$
+
+$${\color{white}22.04.2023[DD.MM.YYYY]}$$
+
+
 ### Contents:
   - [Introduction 👋](#introduction--back-to-contents-)
   - [Socials 📢](#socials--back-to-contents-)
