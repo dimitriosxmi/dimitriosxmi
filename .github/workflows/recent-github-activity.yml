@@ -2,7 +2,7 @@ name: Recent Github Activity Update README
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '*/6 * * * *'
   workflow_dispatch:
 
 jobs:
