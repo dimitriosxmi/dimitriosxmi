@@ -23,49 +23,76 @@ $${\color{white}AS}$$
 
 $${\color{white}OF}$$
 
-$${\color{white}22.04.2023[DD.MM.YYYY]}$$
+$${\color{white}23.04.2023[DD.MM.YYYY]}$$
 
-# Heyo! I'm Dimitrios :wave:
-## Contents:
-  - [Introduction 👋](#introduction--back-to-contents-)
-  - [Socials 📢](#socials--back-to-contents-)
-  - [Favourite Tools 🔧](#favourite-tools--back-to-contents-)
-  - [Github Stats and Activity 📊](#github-stats-and-activity--back-to-contents-)
+## Heyo! I'm Dimitrios :wave:
+> On a quest to find my holy inner peace.
+### Contents:
+  - [Introduction 👋](#introduction--back-to-contents)
+  - [Socials 📢](#socials--back-to-contents)
+  - [Favourite Tools 🔧](#favourite-tools--back-to-contents)
+  - [Github Stats and Activity 📊](#github-stats-and-activity--back-to-contents)
   
 
-## Introduction 👋 <a href="#contents"><sup>back to contents ⬆</sup></a>
-| Type | Introduction|
+### Introduction 👋 <a href="#contents"><sup>back to contents</sup></a>
+| Type | Introduction |
 | - | - |
-| Professional | I specialize in [Full Stack 📚](#full-stack-development--back-to-contents-), and [Game development 🎮](#game-development--back-to-contents-) |
+| Professional | I specialize in [Full Stack 📚](#full-stack-development-), and [Game development 🎮](#game-development-) |
+| | |
 | Personal | I'm a developer, but above all I'm human. That means I have passions that get me moving and enjoying the beauty in putting ingredients together to make something  new and tasty. Could be a meal, a dev project, even a new organization system. |
 
 
-### Full Stack Development 📚 <a href="#contents"><sup>back to contents ⬆</sup></a>
-### Game Development 🎮 <a href="#contents"><sup>back to contents ⬆</sup></a>
+###### Full Stack Development 📚
+###### Game Development 🎮
 ---
-## Socials 📢 <a href="#contents"><sup>back to contents ⬆</sup></a>
+### Socials 📢 <a href="#contents"><sup>back to contents</sup></a>
+
+<p>Come say a hello!</p>
+
+<a href="https://www.linkedin.com/in/dimitrios-kitsikidis-450832182/">
+  <img alt="linked in logo" src="https://user-images.githubusercontent.com/31593501/233856668-a8a4e51b-9861-4c8d-9ece-38de8e8cf110.svg" height="80px"/>
+</a>
+
+<a href="https://www.twitch.tv/dimitrios_xmi">
+  <img alt="twitch.tv logo" src="https://user-images.githubusercontent.com/31593501/233858802-e67b93bf-a3c0-4118-980b-493c8b4766ab.svg" height="80px"/>
+</a>
+
+<a href="https://www.instagram.com/dimitriosxmi/">
+  <img alt="instagram logo" src="https://user-images.githubusercontent.com/31593501/233860149-f2906aa5-1c18-472e-bb2d-bd4ecc7a9c88.svg" height="80px"/>
+</a>
+
+<a href="https://twitter.com/dimitriosxmi">
+  <img alt="twitter logo" src="https://user-images.githubusercontent.com/31593501/233860156-f5bfbf9c-c9bb-4100-a331-b7771fcb092b.svg" height="80px"/>
+</a>
+
+<a href="https://linktr.ee/dimitriosxmi">
+  <img alt="linktree logo" src="https://user-images.githubusercontent.com/31593501/233858969-1acaef03-0018-4e0b-a472-ce1375335931.svg" height="80px"/>
+</a>
+
+###### In case of certain media buttons not working properly, use the link tree button which will always contain the most up to date links
 ---
-## Favourite Tools 🔧 <a href="#contents"><sup>back to contents ⬆</sup></a>
+### Favourite Tools 🔧 <a href="#contents"><sup>back to contents</sup></a>
 ---
-## Github Stats and Activity 📊 <a href="#contents"><sup>back to contents ⬆</sup></a>
-### Streak Stats <a href="#contents"><sup>back to contents ⬆</sup></a>
+### Github Stats and Activity 📊 <a href="#contents"><sup>back to contents</sup></a>
+
+<h6>Streaks</h6>
+
   <p>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dimitrios streak" src="https://streak-stats.demolab.com/?user=dimitriosxmi&theme=monokai-metallian&hide_border=true"/>
   </p>
+  
+<h6>Stats</h6>
 
-### Profile Stats <a href="#contents"><sup>back to contents ⬆</sup></a>
+<img alt="Dimitrios Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dimitriosxmi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Dimitrios Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dimitriosxmi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--<br/>-->
 
-  <a><img alt="Dimitrios Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dimitriosxmi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/></a>
-  <a><img alt="Dimitrios Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dimitriosxmi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" width="49%"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level, e.g. shaderlab is a language I've never worked with, but it is still consistet in my public code due to uploaded unity projects.
+  <p><sup>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level, e.g. shaderlab is a language I've never worked with, but it is still consisted in my public code due to uploaded unity projects.</sup></p>
 
   <img alt="Dimitrios Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dimitriosxmi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-### Recent Activity in GitHub ⚡️ <a href="#contents"><sup>back to contents ⬆</sup></a>
+  
+<h6>Recent Activity</h6>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#94](https://github.com/jamesgeorge007/github-activity-readme/issues/94) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
@@ -76,7 +103,6 @@ $${\color{white}22.04.2023[DD.MM.YYYY]}$$
 <!--END_SECTION:activity-->
 ---
 
-I am interested in all sorts of development in software *currently* I specialize in 🎮Game-, and 📚Full-Stack development.
 ### Here are some cool facts about me:
 - The first non-web game I ever played is Wacraft III at the age of 4
 - I value health above everything
