@@ -68,6 +68,11 @@ $${\color{white}22.04.2023[DD.MM.YYYY]}$$
 ### Recent Activity in GitHub ⚡️ <a href="#contents"><sup>back to contents ⬆</sup></a>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/dimitriosxmi/dimitriosxmi/pull/6) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
+2. 💪 Opened PR [#6](https://github.com/dimitriosxmi/dimitriosxmi/pull/6) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
+3. 🎉 Merged PR [#5](https://github.com/dimitriosxmi/dimitriosxmi/pull/5) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
+4. 💪 Opened PR [#5](https://github.com/dimitriosxmi/dimitriosxmi/pull/5) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
+5. 🎉 Merged PR [#4](https://github.com/dimitriosxmi/dimitriosxmi/pull/4) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
 <!--END_SECTION:activity-->
 ---
 
