@@ -97,11 +97,11 @@ $${\color{white}23.04.2023[DD.MM.YYYY]}$$
 <h6>Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/jamesgeorge007/github-activity-readme/issues/94) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#6](https://github.com/dimitriosxmi/dimitriosxmi/pull/6) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
-3. 💪 Opened PR [#6](https://github.com/dimitriosxmi/dimitriosxmi/pull/6) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
-4. 🎉 Merged PR [#5](https://github.com/dimitriosxmi/dimitriosxmi/pull/5) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
-5. 💪 Opened PR [#5](https://github.com/dimitriosxmi/dimitriosxmi/pull/5) in [dimitriosxmi/dimitriosxmi](https://github.com/dimitriosxmi/dimitriosxmi)
+1. 🎉 Merged PR [#1](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/1) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+2. 🗣 Commented on [#1](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/1) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+3. 💪 Opened PR [#1](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/1) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+4. 🗣 Commented on [#1](https://github.com/nastiche/personal-website/issues/1) in [nastiche/personal-website](https://github.com/nastiche/personal-website)
+5. 🎉 Merged PR [#2](https://github.com/dimitriosxmi/personal-website/pull/2) in [dimitriosxmi/personal-website](https://github.com/dimitriosxmi/personal-website)
 <!--END_SECTION:activity-->
 ---
 
