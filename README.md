@@ -97,11 +97,11 @@ $${\color{white}23.04.2023[DD.MM.YYYY]}$$
 <h6>Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-2. 🗣 Commented on [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-3. 💪 Opened PR [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-4. 🎉 Merged PR [#2](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/2) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-5. 🗣 Commented on [#2](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/2) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+1. 🎉 Merged PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+2. 🗣 Commented on [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+3. 💪 Opened PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+4. 🎉 Merged PR [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+5. 🗣 Commented on [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
 <!--END_SECTION:activity-->
 ---
 
