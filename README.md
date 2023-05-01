@@ -30,6 +30,7 @@ $${\color{white}23.04.2023[DD.MM.YYYY]}$$
 ### Contents:
   - [Introduction 👋](#introduction--back-to-contents)
   - [Socials 📢](#socials--back-to-contents)
+  - [Projects 🍰](#projects-)
   - [Favourite Tools 🔧](#favourite-tools--back-to-contents)
   - [Github Stats and Activity 📊](#github-stats-and-activity--back-to-contents)
   
@@ -70,6 +71,16 @@ $${\color{white}23.04.2023[DD.MM.YYYY]}$$
 </a>
 
 ###### In case of certain media buttons not working properly, use the link tree button which will always contain the most up to date links
+---
+### Projects 🍰
+<p align="left">
+  <a href="https://github.com/dimitriosxmi/DimisFunbox">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=DimisFunbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dimisfunxbox repo"></a>
+  <a href="">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="personal website repo">
+  </a>
+</p>
+
 ---
 ### Favourite Tools 🔧 <a href="#contents"><sup>back to contents</sup></a>
 ---
