@@ -23,10 +23,22 @@ $${\color{white}AS}$$
 
 $${\color{white}OF}$$
 
-$${\color{white}23.04.2023[DD.MM.YYYY]}$$
+$${\color{white}03.05.2023[DD.MM.YYYY]}$$
 
-## Heyo! I'm Dimitrios :wave:
-> On a quest to find my holy inner peace.
+<h2 align="center">Heyo! :wave: I'm </h2>
+
+<p align="center">
+  <a href="https://github.com/dimitriosxmi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0.1&pause=60000&color=E66780&center=true&vCenter=true&repeat=false&width=1000&height=30&lines=Dimitrios+Kitsikidis" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!--Font Size: 20, Duration: 4500, Pause 1000, Width X Height: 1000 X 30, Horizontally Centered: true, Vertically Centered: true
+  Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast,
+  Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace.-->
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=1000&color=E66780&center=true&vCenter=true&width=1000&height=30&lines=Full-stack+web+developer;Hobbyist+game+developer;%2B4+years+of+coding+experience;Organizational+systems+enthusiast;Consistently+acquiring+new+skills;Efficiency+and+productivity+enthusiast;On+a+quest+to+find+my+holy+inner+peace." alt="Typing SVG" />
+</p>
+
 ### Contents:
   - [Introduction 👋](#introduction--back-to-contents)
   - [Socials 📢](#socials--back-to-contents)
