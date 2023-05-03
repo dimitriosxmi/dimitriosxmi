@@ -60,27 +60,29 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
 ---
 ### Socials 📢 <a href="#contents"><sup>back to contents</sup></a>
 
-<p>Come say a hello!</p>
+<p>Come say hello! 😃</p>
 
-<a href="https://www.linkedin.com/in/dimitrios-kitsikidis-450832182/">
-  <img alt="linked in logo" src="https://user-images.githubusercontent.com/31593501/233856668-a8a4e51b-9861-4c8d-9ece-38de8e8cf110.svg" height="80px"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dimitrios-kitsikidis-450832182/">
+    <img alt="linked in logo" src="https://user-images.githubusercontent.com/31593501/233856668-a8a4e51b-9861-4c8d-9ece-38de8e8cf110.svg" height="60px"/>
+  </a>
 
-<a href="https://www.twitch.tv/dimitrios_xmi">
-  <img alt="twitch.tv logo" src="https://user-images.githubusercontent.com/31593501/233858802-e67b93bf-a3c0-4118-980b-493c8b4766ab.svg" height="80px"/>
-</a>
+  <a href="https://www.twitch.tv/dimitrios_xmi">
+    <img alt="twitch.tv logo" src="https://user-images.githubusercontent.com/31593501/233858802-e67b93bf-a3c0-4118-980b-493c8b4766ab.svg" height="60px"/>
+  </a>
 
-<a href="https://www.instagram.com/dimitriosxmi/">
-  <img alt="instagram logo" src="https://user-images.githubusercontent.com/31593501/233860149-f2906aa5-1c18-472e-bb2d-bd4ecc7a9c88.svg" height="80px"/>
-</a>
+  <a href="https://www.instagram.com/dimitriosxmi/">
+    <img alt="instagram logo" src="https://user-images.githubusercontent.com/31593501/233860149-f2906aa5-1c18-472e-bb2d-bd4ecc7a9c88.svg" height="60px"/>
+  </a>
 
-<a href="https://twitter.com/dimitriosxmi">
-  <img alt="twitter logo" src="https://user-images.githubusercontent.com/31593501/233860156-f5bfbf9c-c9bb-4100-a331-b7771fcb092b.svg" height="80px"/>
-</a>
+  <a href="https://twitter.com/dimitriosxmi">
+    <img alt="twitter logo" src="https://user-images.githubusercontent.com/31593501/233860156-f5bfbf9c-c9bb-4100-a331-b7771fcb092b.svg" height="60px"/>
+  </a>
 
-<a href="https://linktr.ee/dimitriosxmi">
-  <img alt="linktree logo" src="https://user-images.githubusercontent.com/31593501/233858969-1acaef03-0018-4e0b-a472-ce1375335931.svg" height="80px"/>
-</a>
+  <a href="https://linktr.ee/dimitriosxmi">
+    <img alt="linktree logo" src="https://user-images.githubusercontent.com/31593501/233858969-1acaef03-0018-4e0b-a472-ce1375335931.svg" height="60px"/>
+  </a>
+</p>
 
 ###### In case of certain media buttons not working properly, use the link tree button which will always contain the most up to date links
 ---
