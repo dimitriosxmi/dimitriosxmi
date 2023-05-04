@@ -74,13 +74,53 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
 ### Introduction 👋 <a href="#contents"><sup>back to contents</sup></a>
 | Type | Introduction |
 | - | - |
-| Professional | I specialize in [Full Stack Web 📚](#full-stack-web-development-), and [Game development 🎮](#game-development-) |
+| Professional | I specialize in [Full Stack Web 📚](#------full-stack-web-development-----), and [Game development 🎮](#------game-development-----) |
 | | |
 | Personal | I'm a developer, but above all I'm human. That means I have passions that get me moving and enjoying the beauty in putting ingredients together to make something  new and tasty. Could be a meal, a dev project, even a new organization system. |
 
-###### Full Stack Web Development 📚
 <details closed>
-  <summary><h6>Game Development 🎮</h6><h6> (my story)</h6></summary>
+  <summary>
+    <h6>
+      Full Stack Web Development 📚
+    </h6>
+    <h6>
+      &nbsp;[my story]
+    </h6>
+  </summary>
+  
+  <p>
+    Even tho I've grown up being primarily interested in playing and developing video games, I've come to realise along my path through <a href="#------game-development-----">game development</a>, that I am actually deeply enjoying all sorts of sub niches when it comes to any sort of software development, whether that's Game-, Web-, App-, Software-, or any other type of development in the niche.
+   </p>
+  <p>
+    In January/ February 2022 while job hunting for some job to just have as an income on the side while I'm focusing on game development during my free time, I've stumbled upon a Job offer as entry level Full-Stack developer thanks to a friend.
+  </p>
+  <p>
+    I liked the idea of getting a corporate job in tech to get the insights of how things are functioning on the corporate internal level of the tech industry and decided to take that offer.
+  </p>
+  <p>
+    The work was really nice, I focused most of my work time and free time on getting a lot of knowledge and skills build up through the codebases I was working with there, and using documentations and video courses on platforms like Udemy. I learned a lot about Angular, RxJS, Google Firebase and Git during my work there.
+  </p>
+  <p>
+    I was officially employed from March 2022 until  February 2023, My contract wasn't extended after the initial 1yr contract due to a new company buying the one I a had a contract with, and laying off over 80% of the office staff.
+  </p>
+  <p>
+    Fast Forward on April 2023 I applied and started attending a Bootcamp to cover all the knowledge gaps that got built up during my experience at work, and to additionally add more tools in my toolbelt, to name a few React, MongoDB, Javascript, Figma, and lots more, as well as to refine and keep up-to-date all my knowledge on database transactions and data transformations.
+  </p>
+  <p>
+    I am currently look forward to get a corporate job as a full stack developer after the bootcamp is over, prefferably remotely (at least 3 days a week) because even the "dress up for work", "travel to work", "travel back home", "undress from work clothing", "get off the workplace mindset" is all SOOO Absorbing of most importantly time and mental-/emotional energy.
+  </p>
+  <p>
+    It's been a pleasre and I've had a lot of fun working as a Full Stack web developer, and I would definitely enjoy wrapping my mind around that job again!
+  </p>
+</details>
+<details closed>
+  <summary>
+    <h6>
+      Game Development 🎮
+    </h6>
+    <h6>
+      &nbsp;[my story]
+    </h6></summary>
   <p>
     I grew up with video games from the age of 3-4 and have always been most fascinated by the beautiful experience a video game can deliver.
   </p>
@@ -103,7 +143,7 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
     I decided to get my hands back to game development and even tho super rusty on everything it felt right like home.
   </p>
   <p>
-    That was the perhaps the second best choice of my life. I was actively practicing it on the daily until through a friend of mine I got a job offer as a [Full-Stack developer](#full-stack-web-development-) that's where I've got sluggish on game development for roughly 8 to 10 months.
+    That was the perhaps the second best choice of my life. I was actively practicing it on the daily until through a friend of mine I got a job offer as a <a href="#------full-stack-web-development-----">Full Stack web developer</a> that's where I've got sluggish on game development for roughly 8 to 10 months.
   </p>
   <p>
     Eventually in late 2022 I got fed up of my sluggishness and began investing more attention during my free time on the subject. Since then I've been actively practicing and learning game development on a weekly basis roughly 10 to 30 hours a week. I am to eventually get one of 2 things going.
