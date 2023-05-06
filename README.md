@@ -23,20 +23,24 @@ $${\color{white}AS}$$
 
 $${\color{white}OF}$$
 
-$${\color{white}03.05.2023[DD.MM.YYYY]}$$
+$${\color{white}06.05.2023[DD.MM.YYYY]}$$
+| <h3 align="center">Heyo! :wave: I'm</h3><p align="center"><a href="https://github.com/dimitriosxmi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0.1&pause=60000&color=E66780&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Dimitrios+Kitsikidis" alt="Dimitrios Kitsikidis" /></p><p align="center"><!--Font Size: 20, Duration: 4500, Pause 1000, Width X Height: 600 X 25, Horizontally Centered: true, Vertically Centered: true Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast, Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace.--><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=1000&color=E66780&center=true&vCenter=true&width=600&height=25&lines=Full-stack+web+developer;Hobbyist+game+developer;%2B4+years+of+coding+experience;Organizational+systems+enthusiast;Consistently+acquiring+new+skills;Efficiency+and+productivity+enthusiast;On+a+quest+to+find+my+holy+inner+peace." alt="Showcase of various phrases reveland to me such as these: Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast, Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace." /></p><p align="center"><a href="https://www.linkedin.com/in/dimitrios-kitsikidis-450832182/"><img alt="linked in logo" src="https://user-images.githubusercontent.com/31593501/236114973-a6002e92-f115-4b33-8091-1c6a250aeb0e.svg" height="40px" padding-left="10px"/></a>&emsp;&emsp;<a href="https://www.twitch.tv/dimitriosxmi"><img alt="twitch.tv logo" src="https://user-images.githubusercontent.com/31593501/236114976-ae36af1b-5ed0-4e0e-888c-fae39d9c7087.svg" height="40px"/></a>&emsp;&emsp;<a href="https://www.instagram.com/dimitriosxmi/"><img alt="instagram logo" src="https://user-images.githubusercontent.com/31593501/236114971-0d3fc75d-b0ac-4339-9b41-7bbbac0bc5a6.svg" height="40px"/></a>&emsp;&emsp;<a href="https://twitter.com/dimitriosxmi"><img alt="twitter logo" src="https://user-images.githubusercontent.com/31593501/236114970-9f722634-96fc-422e-90d5-c27bb4ef10bd.svg" height="40px"/></a>&emsp;&emsp;<a href="https://linktr.ee/dimitriosxmi"><img alt="linktree logo" src="https://user-images.githubusercontent.com/31593501/236114974-28336211-49ae-4f8b-a129-d1f54eadeca5.svg" height="40px"/></a></p><sup><h6 align="center">In case of certain media buttons not working properly, use the link tree button which will always contain the most up to date links</h6></sup> | <h3>Contents</h3><p><a href="#introduction--back-to-contents">Introduction 👋</a></p><p><a href="#projects-">Projects 🍰</a></p><p><a href="#favourite-tools--back-to-contents">Favourite Tools 🔧</a></p><p><a href="#github-stats-and-activity--back-to-contents">Github Stats and Activity 📊</a></p> |
+| :---: | :---: |
 
-<h2 align="center">Heyo! :wave: I'm </h2>
+<!--<h2 align="center">
+  Heyo! :wave: I'm
+</h2>
 
 <p align="center">
   <a href="https://github.com/dimitriosxmi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0.1&pause=60000&color=E66780&center=true&vCenter=true&repeat=false&width=1000&height=30&lines=Dimitrios+Kitsikidis" alt="Dimitrios Kitsikidis" />
 </p>
 
-<p align="center">
+<p align="center">-->
   <!--Font Size: 20, Duration: 4500, Pause 1000, Width X Height: 1000 X 25, Horizontally Centered: true, Vertically Centered: true
   Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast,
   Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace.-->
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=1000&color=E66780&center=true&vCenter=true&width=1000&height=25&lines=Full-stack+web+developer;Hobbyist+game+developer;%2B4+years+of+coding+experience;Organizational+systems+enthusiast;Consistently+acquiring+new+skills;Efficiency+and+productivity+enthusiast;On+a+quest+to+find+my+holy+inner+peace." alt="Showcase of various phrases reveland to me such as these: Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast, Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace." />
+  <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=1000&color=E66780&center=true&vCenter=true&width=1000&height=25&lines=Full-stack+web+developer;Hobbyist+game+developer;%2B4+years+of+coding+experience;Organizational+systems+enthusiast;Consistently+acquiring+new+skills;Efficiency+and+productivity+enthusiast;On+a+quest+to+find+my+holy+inner+peace." alt="Showcase of various phrases reveland to me such as these: Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast, Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace." />
 </p>
 
 <p align="center">
@@ -68,14 +72,13 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
   - [Introduction 👋](#introduction--back-to-contents)
   - [Projects 🍰](#projects-)
   - [Favourite Tools 🔧](#favourite-tools--back-to-contents)
-  - [Github Stats and Activity 📊](#github-stats-and-activity--back-to-contents)
+  - [Github Stats and Activity 📊](#github-stats-and-activity--back-to-contents)-->
   
 
 ### Introduction 👋 <a href="#contents"><sup>back to contents</sup></a>
-| Type | Introduction |
+| <h4>Type</h4> | <h4>Introduction</h3> |
 | - | - |
 | Professional | I specialize in [Full Stack Web 📚](#------full-stack-web-development-----), and [Game development 🎮](#------game-development-----) |
-| | |
 | Personal | I'm a developer, but above all I'm human. That means I have passions that get me moving and enjoying the beauty in putting ingredients together to make something  new and tasty. Could be a meal, a dev project, even a new organization system. |
 
 <details closed>
@@ -84,7 +87,7 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
       Full Stack Web Development 📚
     </h6>
     <h6>
-      &nbsp;[my story]
+      &nbsp;[personal story]
     </h6>
   </summary>
   
@@ -92,13 +95,13 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
     Even tho I've grown up being primarily interested in playing and developing video games, I've come to realise along my path through <a href="#------game-development-----">game development</a>, that I am actually deeply enjoying all sorts of sub niches when it comes to any sort of software development, whether that's Game-, Web-, App-, Software-, or any other type of development in the niche.
    </p>
   <p>
-    In January/ February 2022 while job hunting for some job to just have as an income on the side while I'm focusing on game development during my free time, I've stumbled upon a Job offer as entry level Full-Stack developer thanks to a friend.
+    In January/ February 2022 while job hunting for an income on the side while I'm focusing on game development during my free time, I've stumbled upon a Job offer as entry level Full Stack developer thanks to a friend.
   </p>
   <p>
     I liked the idea of getting a corporate job in tech to get the insights of how things are functioning on the corporate internal level of the tech industry and decided to take that offer.
   </p>
   <p>
-    The work was really nice, I focused most of my work time and free time on getting a lot of knowledge and skills build up through the codebases I was working with there, and using documentations and video courses on platforms like Udemy. I learned a lot about Angular, RxJS, Google Firebase and Git during my work there.
+    The work was really nice, I focused most of my work time and free time on getting a lot of knowledge and skills build up through the codebases I was working with there, and using documentations and video courses on platforms like Udemy. I learned a lot about Angular, RxJS, Google Firebase, Git, Jira & Confluence and few other tools during my work there.
   </p>
   <p>
     I was officially employed from March 2022 until  February 2023, My contract wasn't extended after the initial 1yr contract due to a new company buying the one I a had a contract with, and laying off over 80% of the office staff.
@@ -119,7 +122,7 @@ $${\color{white}03.05.2023[DD.MM.YYYY]}$$
       Game Development 🎮
     </h6>
     <h6>
-      &nbsp;[my story]
+      &nbsp;[personal story]
     </h6></summary>
   <p>
     I grew up with video games from the age of 3-4 and have always been most fascinated by the beautiful experience a video game can deliver.
