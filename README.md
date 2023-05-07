@@ -207,12 +207,4 @@ $${\color{white}06.05.2023[DD.MM.YYYY]}$$
 5. 🗣 Commented on [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
 <!--END_SECTION:activity-->
 ---
-
-### Here are some cool facts about me:
-- The first non-web game I ever played is Wacraft III at the age of 4
-- I value health above everything
-- Toxic company cultures will be avoided or prevented at almost all costs
-
-| <img src="https://us04images.zoom.us/p/xdKSFGnQRe6bq4j61IwVFw/a454abe6-c4dc-4ae4-9c07-db6097189108-9724?type=large" alt="dimitrios kitskidis staring into your soul" width="200" height="200"> | Here's a casual picture of me, staring into your soul, absorbing your will to tell me that I am not promoted. |
-| ----------- | ----------- |
-| <img src="https://i.imgur.com/dGxLYmh.gif" alt="cute doggo wagging it's tail .GIF" width="200" height="200"> | *Also check this happy cute dog I've just encountered in giphy.com* 🥰 |
+<a href="#contents">Back to contents</a>
