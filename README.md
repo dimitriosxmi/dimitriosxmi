@@ -117,7 +117,7 @@
       At the age of 18 I applied and attended for 3 semesters (until I got a diploma) on a games programming school in Stuttgart, when I finished I applied to all the studios found in the region but I didn't manage to get a job offer.
     </p>
     <p>
-      I got highly discouraged, passively depressed, and began questioned my career choices..
+      I got highly discouraged, passively depressed, and began questioning my career choices..
     </p>
     <p>
       So I started spending time online getting educated about other topics such as marketing, social media algorithms, stock market, trading, investing, dropshipping and other topics alike.
@@ -146,7 +146,6 @@
   </details>
 </details>
 
----
 <details open>
   <summary>
     <h3>
@@ -175,7 +174,6 @@
   </p>
 </details>
 
----
 <details>
   <summary>
     <h3>
@@ -306,7 +304,6 @@
 
 </details>
     
----
 <details closed>
   <summary>
     <h3>
@@ -357,5 +354,4 @@
 <!--END_SECTION:activity-->
 </details>
 
----
 <a href="#contents">Back to contents</a>
