@@ -167,37 +167,46 @@ $${\color{white}06.05.2023[DD.MM.YYYY]}$$
 ### Projects 🍰
 <p align="left">
   <a href="https://github.com/dimitriosxmi/DimisFunbox">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=DimisFunbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dimisfunxbox repo"></a>
-  <a href="">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="personal website repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=DimisFunbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="dimisfunxbox repo"></a>
+  <a href="https://github.com/dimitriosxmi/personal-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="personal website repo">
   </a>
 </p>
 
 ---
 ### Favourite Tools 🔧 <a href="#contents"><sup>back to contents</sup></a>
 ---
-### Github Stats and Activity 📊 <a href="#contents"><sup>back to contents</sup></a>
+<details closed>
+<summary><h3>Github Stats and Activity 📊 <a href="#contents"><sup>back to contents</sup></a><h3></summary>
 
-<h6>Streaks</h6>
+| <h6>Streaks</h6><p><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dimitrios streak" src="https://streak-stats.demolab.com/?user=dimitriosxmi&theme=monokai-metallian&hide_border=true"/></p> | <h6>Stats</h6><p><img align="center" alt="Dimitrios Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dimitriosxmi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></p> |
+| :---: | :---: |
+
+| <h6>Recent Github Contributions Activity</h6><p><img alt="Dimitrios Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dimitriosxmi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p> |
+| :---: |
+
+<!--<h6>Streaks</h6>
 
   <p>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dimitrios streak" src="https://streak-stats.demolab.com/?user=dimitriosxmi&theme=monokai-metallian&hide_border=true"/>
-  </p>
+  </p>-->
   
-<h6>Stats</h6>
+<!--<h6>Stats</h6>
 
 <p>
-  <img alt="Dimitrios Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dimitriosxmi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
-  <img alt="Dimitrios Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dimitriosxmi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" width="49%"/>
-</p>
+  <img align="center" alt="Dimitrios Github Stats" src="https://github-readme-stats.vercel.app/api/?username=dimitriosxmi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img align="center" alt="Dimitrios Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriosxmi&langs_count=8&layout=compact&hide_progress=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="160px"/>
+</p>-->
 
-<!--<br/>-->
+  <!--<p><sup>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level, e.g. shaderlab is a language I've never worked with, but it is still consisted in my public code due to uploaded unity projects.</sup></p>-->
 
-  <p><sup>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level, e.g. shaderlab is a language I've never worked with, but it is still consisted in my public code due to uploaded unity projects.</sup></p>
+<!--<h6>Recent Github Contributions Activity</h6>
 
+<p>
   <img alt="Dimitrios Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=dimitriosxmi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  
-<h6>Recent Activity</h6>
+</p>-->
+
+<h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
@@ -206,5 +215,7 @@ $${\color{white}06.05.2023[DD.MM.YYYY]}$$
 4. 🎉 Merged PR [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
 5. 🗣 Commented on [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
 <!--END_SECTION:activity-->
+</details>
+
 ---
 <a href="#contents">Back to contents</a>
