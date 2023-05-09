@@ -345,11 +345,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-2. 🗣 Commented on [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-3. 💪 Opened PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-4. 🎉 Merged PR [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-5. 🗣 Commented on [#3](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/3) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+1. 🎉 Merged PR [#1](https://github.com/dimitriosxmi/web-linting-basics/pull/1) in [dimitriosxmi/web-linting-basics](https://github.com/dimitriosxmi/web-linting-basics)
+2. 💪 Opened PR [#1](https://github.com/dimitriosxmi/web-linting-basics/pull/1) in [dimitriosxmi/web-linting-basics](https://github.com/dimitriosxmi/web-linting-basics)
+3. 🎉 Merged PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+4. 🗣 Commented on [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+5. 💪 Opened PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
 <!--END_SECTION:activity-->
 </details>
 
