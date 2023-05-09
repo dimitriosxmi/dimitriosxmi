@@ -60,7 +60,7 @@
     </a>
   </summary>
   
-  | Professional | I specialize in [Full Stack web development 📚](#------full-stack-web-development-----), and [Video Game development 🎮](#------game-development-----). TL;DR <br/><br/>Full Stack: Worked professionally 1yr, July 2023 finished 540h Web Dev Bootcamp for knowledge gaps. Aiming for corporate position to further grow and provide good code and documentation.<br/><br/>Game Development: Core personal passion, +3yr personal experience, 1.5yr Games programming school (Diploma), Aiming for varried and extensive skill expansion and later shaders programming, would love a corporate position to provide good work and growth. |
+  | Professional | I specialize in [Full Stack web development 📚](#--------full-stack-web-development-------), and [Video Game development 🎮](#--------game-development-------). TL;DR <br/><br/>Full Stack: Worked professionally 1yr, July 2023 finished 540h Web Dev Bootcamp for knowledge gaps. Aiming for corporate position to further grow and provide good code and documentation.<br/><br/>Game Development: Core personal passion, +3yr personal experience, 1.5yr Games programming school (Diploma), Aiming for varried and extensive skill expansion and later shaders programming, would love a corporate position to provide good work and growth. |
   | :---: | :--- |
   | Personal | I'm a developer, but above all I'm human. That means I have passions that get me moving and enjoying the beauty in putting ingredients together to make something  new and tasty. Could be a meal, a dev project, even a new organization system. |
 
@@ -74,7 +74,7 @@
       </h6>
     </summary>
     <p>
-      Even tho I've grown up being primarily interested in playing and developing video games, I've come to realise along my path through <a href="#------game-development-----">game development</a>, that I am actually deeply enjoying all sorts of sub niches when it comes to any sort of software development, whether that's Game-, Web-, App-, Software-, or any other type of development in the niche.
+      Even tho I've grown up being primarily interested in playing and developing video games, I've come to realise along my path through <a href="#--------game-development-------">game development</a>, that I am actually deeply enjoying all sorts of sub niches when it comes to any sort of software development, whether that's Game-, Web-, App-, Software-, or any other type of development in the niche.
     </p>
     <p>
       In January/ February 2022 while job hunting for an income on the side while I'm focusing on game development during my free time, I've stumbled upon a Job offer as entry level Full Stack developer thanks to a friend.
@@ -129,7 +129,7 @@
       I decided to get my hands back to game development and even tho super rusty on everything it felt right like home.
     </p>
     <p>
-      That was the perhaps the second best choice of my life. I was actively practicing it on the daily until through a friend of mine I got a job offer as a <a href="#------full-stack-web-development-----">Full Stack web developer</a> that's where I've got sluggish on game development for roughly 8 to 10 months.
+      That was the perhaps the second best choice of my life. I was actively practicing it on the daily until through a friend of mine I got a job offer as a <a href="#--------full-stack-web-development-------">Full Stack web developer</a> that's where I've got sluggish on game development for roughly 8 to 10 months.
     </p>
     <p>
     Eventually in late 2022 I got fed up of my sluggishness and began investing more attention during my free time on the subject. Since then I've been actively practicing and learning game development on a weekly basis roughly 10 to 30 hours a week. I am to eventually get one of 2 things going.
@@ -188,9 +188,8 @@
   <h6>
     Development Tools
   </h6>
-  <p>
     <a alt="link to unity official website" href="https://unity.com/">
-      <img alt="unity logo" src="https://user-images.githubusercontent.com/31593501/236865499-dd92626b-9fef-4771-b942-fa6e001e7244.svg" height="30px"/>
+      <img alt="unity logo" src="https://user-images.githubusercontent.com/31593501/236988943-aa80b079-befa-4067-8b29-0d0def3ac0f1.svg" height="30px"/>
     </a>
     &ensp;
     <a alt="link to visual studio official website" href="https://visualstudio.microsoft.com/">
