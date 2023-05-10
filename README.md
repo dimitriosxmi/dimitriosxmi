@@ -146,6 +146,22 @@
   </details>
 </details>
 
+<!--<details open>
+  <summary>
+    <h3>
+      Recent ongoings: 
+    </h3>
+    <a href="#contents">
+      <sup>
+        back to contents
+      </sup>
+    </a>
+  </summary>
+  <p>
+    Practising Skills:
+  </p>
+  </details>-->
+
 <details open>
   <summary>
     <h3>
