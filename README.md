@@ -361,11 +361,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dimitriosxmi/web-linting-basics/pull/1) in [dimitriosxmi/web-linting-basics](https://github.com/dimitriosxmi/web-linting-basics)
-2. 💪 Opened PR [#1](https://github.com/dimitriosxmi/web-linting-basics/pull/1) in [dimitriosxmi/web-linting-basics](https://github.com/dimitriosxmi/web-linting-basics)
-3. 🎉 Merged PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-4. 🗣 Commented on [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/issues/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
-5. 💪 Opened PR [#4](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout/pull/4) in [dimitriosxmi/Recap-Project-I-Quiz-App-Layout](https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout)
+1. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+2. 💪 Opened PR [#2](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/2) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+3. 💪 Opened PR [#1](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/1) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+4. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+5. 💪 Opened PR [#2](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/2) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
 <!--END_SECTION:activity-->
 </details>
 
