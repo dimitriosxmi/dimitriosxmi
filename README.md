@@ -160,6 +160,23 @@
   <p>
     Practising Skills:
   </p>
+  <p>
+    Working on Projects:
+  </p>
+  <p>
+    Plans for 2023:
+    <ul>
+      <li>
+        Sample listing.
+      </li>
+      <li>
+        Sample listing.
+      </li>
+      <li>
+        Sample listing.
+      </li>
+    </ul>
+  </p>
   </details>-->
 
 <details open>
