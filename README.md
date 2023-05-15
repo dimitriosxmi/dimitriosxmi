@@ -378,11 +378,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
-2. 💪 Opened PR [#2](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/2) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
-3. 💪 Opened PR [#1](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/1) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
-4. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
-5. 💪 Opened PR [#2](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/2) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+1. 🗣 Commented on [#2](https://github.com/Katemuya/Recap-Project-2-Quiz-App/issues/2) in [Katemuya/Recap-Project-2-Quiz-App](https://github.com/Katemuya/Recap-Project-2-Quiz-App)
+2. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+3. 💪 Opened PR [#2](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/2) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+4. 💪 Opened PR [#1](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/1) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+5. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
 <!--END_SECTION:activity-->
 </details>
 
