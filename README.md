@@ -378,11 +378,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/LukasWeckner/rickAndMortyApp/issues/2) in [LukasWeckner/rickAndMortyApp](https://github.com/LukasWeckner/rickAndMortyApp)
-2. 💪 Opened PR [#1](https://github.com/dimitriosxmi/recap-project-3_rick-and-morty-app/pull/1) in [dimitriosxmi/recap-project-3_rick-and-morty-app](https://github.com/dimitriosxmi/recap-project-3_rick-and-morty-app)
-3. 🗣 Commented on [#2](https://github.com/Katemuya/Recap-Project-2-Quiz-App/issues/2) in [Katemuya/Recap-Project-2-Quiz-App](https://github.com/Katemuya/Recap-Project-2-Quiz-App)
-4. 💪 Opened PR [#3](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/3) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
-5. 💪 Opened PR [#2](https://github.com/dimitriosxmi/web-git-conflicts-template/pull/2) in [dimitriosxmi/web-git-conflicts-template](https://github.com/dimitriosxmi/web-git-conflicts-template)
+1. 🎉 Merged PR [#1](https://github.com/dimitriosxmi/Blocka-Puncha/pull/1) in [dimitriosxmi/Blocka-Puncha](https://github.com/dimitriosxmi/Blocka-Puncha)
+2. 💪 Opened PR [#1](https://github.com/dimitriosxmi/Blocka-Puncha/pull/1) in [dimitriosxmi/Blocka-Puncha](https://github.com/dimitriosxmi/Blocka-Puncha)
+3. 🗣 Commented on [#2](https://github.com/LukasWeckner/rickAndMortyApp/issues/2) in [LukasWeckner/rickAndMortyApp](https://github.com/LukasWeckner/rickAndMortyApp)
+4. 💪 Opened PR [#1](https://github.com/dimitriosxmi/recap-project-3_rick-and-morty-app/pull/1) in [dimitriosxmi/recap-project-3_rick-and-morty-app](https://github.com/dimitriosxmi/recap-project-3_rick-and-morty-app)
+5. 🗣 Commented on [#2](https://github.com/Katemuya/Recap-Project-2-Quiz-App/issues/2) in [Katemuya/Recap-Project-2-Quiz-App](https://github.com/Katemuya/Recap-Project-2-Quiz-App)
 <!--END_SECTION:activity-->
 </details>
 
