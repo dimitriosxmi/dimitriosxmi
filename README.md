@@ -160,20 +160,29 @@
   <p>
     Practising Skills:
   </p>
+  <ul>
+    <li>
+    </li>
+  </ul>
   <p>
     Working on Projects:
   </p>
+  <ul>
+    <li>
+      🔄 <a href="#">Blocka-Puncha</a> (Game Dev)
+    </li>
+  </ul>
   <p>
     Plans for 2023:
     <ul>
       <li>
-        Sample listing.
+        🔄 Do Web Dev Boocamp
       </li>
       <li>
-        Sample listing.
+        ✅ Sample listing.
       </li>
       <li>
-        Sample listing.
+        ❔ Sample listing.
       </li>
     </ul>
   </p>
