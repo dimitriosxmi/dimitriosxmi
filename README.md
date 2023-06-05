@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp/pull/1) in [dimitriosxmi/RecapProject5ArtGalleryApp](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp)
-2. 🎉 Merged PR [#2](https://github.com/RonnySteady/recap-4/pull/2) in [RonnySteady/recap-4](https://github.com/RonnySteady/recap-4)
-3. 💪 Opened PR [#2](https://github.com/RonnySteady/recap-4/pull/2) in [RonnySteady/recap-4](https://github.com/RonnySteady/recap-4)
-4. 🎉 Merged PR [#2](https://github.com/dimitriosxmi/Blocka-Puncha/pull/2) in [dimitriosxmi/Blocka-Puncha](https://github.com/dimitriosxmi/Blocka-Puncha)
-5. 💪 Opened PR [#2](https://github.com/dimitriosxmi/Blocka-Puncha/pull/2) in [dimitriosxmi/Blocka-Puncha](https://github.com/dimitriosxmi/Blocka-Puncha)
+1. 🎉 Merged PR [#1](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp/pull/1) in [dimitriosxmi/RecapProject5ArtGalleryApp](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp)
+2. 💪 Opened PR [#1](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp/pull/1) in [dimitriosxmi/RecapProject5ArtGalleryApp](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp)
+3. 🎉 Merged PR [#2](https://github.com/RonnySteady/recap-4/pull/2) in [RonnySteady/recap-4](https://github.com/RonnySteady/recap-4)
+4. 💪 Opened PR [#2](https://github.com/RonnySteady/recap-4/pull/2) in [RonnySteady/recap-4](https://github.com/RonnySteady/recap-4)
+5. 🎉 Merged PR [#2](https://github.com/dimitriosxmi/Blocka-Puncha/pull/2) in [dimitriosxmi/Blocka-Puncha](https://github.com/dimitriosxmi/Blocka-Puncha)
 <!--END_SECTION:activity-->
 </details>
 
