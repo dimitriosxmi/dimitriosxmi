@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp/pull/1) in [dimitriosxmi/RecapProject5ArtGalleryApp](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp)
-2. 💪 Opened PR [#1](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp/pull/1) in [dimitriosxmi/RecapProject5ArtGalleryApp](https://github.com/dimitriosxmi/RecapProject5ArtGalleryApp)
-3. 🎉 Merged PR [#2](https://github.com/RonnySteady/recap-4/pull/2) in [RonnySteady/recap-4](https://github.com/RonnySteady/recap-4)
-4. 💪 Opened PR [#2](https://github.com/RonnySteady/recap-4/pull/2) in [RonnySteady/recap-4](https://github.com/RonnySteady/recap-4)
-5. 🎉 Merged PR [#2](https://github.com/dimitriosxmi/Blocka-Puncha/pull/2) in [dimitriosxmi/Blocka-Puncha](https://github.com/dimitriosxmi/Blocka-Puncha)
+1. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+3. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. ❗ Opened issue [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
