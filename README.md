@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. ❗ Opened issue [#3](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/3) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. ❗ Opened issue [#2](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/2) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 3. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 4. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-5. ❗ Opened issue [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🗣 Commented on [#1](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/1) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
