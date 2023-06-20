@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/4) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🗣 Commented on [#8](https://github.com/CarstenJahnke/MCU-App/issues/8) in [CarstenJahnke/MCU-App](https://github.com/CarstenJahnke/MCU-App)
-3. 🗣 Commented on [#3](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/3) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-4. 🗣 Commented on [#7](https://github.com/CarstenJahnke/MCU-App/issues/7) in [CarstenJahnke/MCU-App](https://github.com/CarstenJahnke/MCU-App)
-5. ❗ Opened issue [#7](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/7) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. 🗣 Commented on [#6](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/6) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. ❗ Opened issue [#8](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/8) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+3. 🗣 Commented on [#5](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/5) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 🗣 Commented on [#5](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/5) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🗣 Commented on [#4](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/4) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
