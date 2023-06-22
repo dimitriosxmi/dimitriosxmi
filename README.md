@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/11) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 💪 Opened PR [#11](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/11) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-3. 🎉 Merged PR [#10](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/10) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-4. 💪 Opened PR [#10](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/10) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-5. 🎉 Merged PR [#9](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/9) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. 💪 Opened PR [#12](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/12) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🗣 Commented on [#11](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/11) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+3. 🎉 Merged PR [#11](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/11) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 💪 Opened PR [#11](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/11) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🎉 Merged PR [#10](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/10) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
