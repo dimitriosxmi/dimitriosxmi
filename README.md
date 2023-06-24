@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/13) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🗣 Commented on [#7](https://github.com/ryliecc/capstone_webdev_wanikani-app/issues/7) in [ryliecc/capstone_webdev_wanikani-app](https://github.com/ryliecc/capstone_webdev_wanikani-app)
-3. 🗣 Commented on [#7](https://github.com/ryliecc/capstone_webdev_wanikani-app/issues/7) in [ryliecc/capstone_webdev_wanikani-app](https://github.com/ryliecc/capstone_webdev_wanikani-app)
-4. 🗣 Commented on [#7](https://github.com/ryliecc/capstone_webdev_wanikani-app/issues/7) in [ryliecc/capstone_webdev_wanikani-app](https://github.com/ryliecc/capstone_webdev_wanikani-app)
-5. 🗣 Commented on [#13](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/13) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. 💪 Opened PR [#15](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/15) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🎉 Merged PR [#14](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/14) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+3. 🗣 Commented on [#14](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/14) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 💪 Opened PR [#14](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/14) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🎉 Merged PR [#13](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/13) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
