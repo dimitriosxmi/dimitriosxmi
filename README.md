@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/17) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🗣 Commented on [#19](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/19) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-3. 🗣 Commented on [#9](https://github.com/matschi3/capstone/issues/9) in [matschi3/capstone](https://github.com/matschi3/capstone)
-4. 🗣 Commented on [#21](https://github.com/MariaRiosNavarro/mobileSimulation-propOS/issues/21) in [MariaRiosNavarro/mobileSimulation-propOS](https://github.com/MariaRiosNavarro/mobileSimulation-propOS)
-5. ❗ Opened issue [#23](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/23) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. 💪 Opened PR [#26](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/26) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🗣 Commented on [#13](https://github.com/CarstenJahnke/MCU-App/issues/13) in [CarstenJahnke/MCU-App](https://github.com/CarstenJahnke/MCU-App)
+3. 🎉 Merged PR [#25](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/25) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 💪 Opened PR [#25](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/25) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🗣 Commented on [#14](https://github.com/LukasWeckner/Capstone-Travel/issues/14) in [LukasWeckner/Capstone-Travel](https://github.com/LukasWeckner/Capstone-Travel)
 <!--END_SECTION:activity-->
 </details>
 
