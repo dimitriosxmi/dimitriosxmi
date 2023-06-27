@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/26) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🗣 Commented on [#13](https://github.com/CarstenJahnke/MCU-App/issues/13) in [CarstenJahnke/MCU-App](https://github.com/CarstenJahnke/MCU-App)
-3. 🎉 Merged PR [#25](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/25) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-4. 💪 Opened PR [#25](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/25) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-5. 🗣 Commented on [#14](https://github.com/LukasWeckner/Capstone-Travel/issues/14) in [LukasWeckner/Capstone-Travel](https://github.com/LukasWeckner/Capstone-Travel)
+1. 💪 Opened PR [#28](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/28) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🎉 Merged PR [#27](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/27) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+3. 🗣 Commented on [#27](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/27) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 💪 Opened PR [#27](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/27) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🎉 Merged PR [#26](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/26) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
