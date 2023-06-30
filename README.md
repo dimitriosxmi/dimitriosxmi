@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Katemuya/Capstone-Project/issues/8) in [Katemuya/Capstone-Project](https://github.com/Katemuya/Capstone-Project)
-2. 🎉 Merged PR [#29](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/29) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-3. 🗣 Commented on [#29](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/29) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-4. 🗣 Commented on [#16](https://github.com/Danielschuetzle/Wayfarer-App/issues/16) in [Danielschuetzle/Wayfarer-App](https://github.com/Danielschuetzle/Wayfarer-App)
-5. 💪 Opened PR [#29](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/29) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. 💪 Opened PR [#30](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/30) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🗣 Commented on [#8](https://github.com/Katemuya/Capstone-Project/issues/8) in [Katemuya/Capstone-Project](https://github.com/Katemuya/Capstone-Project)
+3. 🎉 Merged PR [#29](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/29) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 🗣 Commented on [#29](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/29) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🗣 Commented on [#16](https://github.com/Danielschuetzle/Wayfarer-App/issues/16) in [Danielschuetzle/Wayfarer-App](https://github.com/Danielschuetzle/Wayfarer-App)
 <!--END_SECTION:activity-->
 </details>
 
