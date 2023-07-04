@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/31) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🎉 Merged PR [#30](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/30) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-3. 💪 Opened PR [#30](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/30) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-4. 🗣 Commented on [#8](https://github.com/Katemuya/Capstone-Project/issues/8) in [Katemuya/Capstone-Project](https://github.com/Katemuya/Capstone-Project)
-5. 🎉 Merged PR [#29](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/29) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+1. 💪 Opened PR [#36](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/36) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🎉 Merged PR [#31](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/31) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+3. 🗣 Commented on [#13](https://github.com/Airglow98/Capstone-Project/issues/13) in [Airglow98/Capstone-Project](https://github.com/Airglow98/Capstone-Project)
+4. ❗ Opened issue [#35](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/35) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. ❗ Opened issue [#34](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/34) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
