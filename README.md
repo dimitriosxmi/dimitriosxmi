@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/37) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🎉 Merged PR [#36](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/36) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-3. 🗣 Commented on [#14](https://github.com/M-Bohmann/capstone-project/issues/14) in [M-Bohmann/capstone-project](https://github.com/M-Bohmann/capstone-project)
-4. 🗣 Commented on [#19](https://github.com/JonasDaJones/capstone-project/issues/19) in [JonasDaJones/capstone-project](https://github.com/JonasDaJones/capstone-project)
-5. 🗣 Commented on [#18](https://github.com/JonasDaJones/capstone-project/issues/18) in [JonasDaJones/capstone-project](https://github.com/JonasDaJones/capstone-project)
+1. 🎉 Merged PR [#38](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/38) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🗣 Commented on [#25](https://github.com/ChristophLeuker/Capstone-project-Throw-In-App/issues/25) in [ChristophLeuker/Capstone-project-Throw-In-App](https://github.com/ChristophLeuker/Capstone-project-Throw-In-App)
+3. 💪 Opened PR [#38](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/38) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 🎉 Merged PR [#37](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/37) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 💪 Opened PR [#37](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/37) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
