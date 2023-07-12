@@ -387,11 +387,11 @@
 <h6>Most Recent Activity</h6>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/ThysBat/worldbuilding-tool/issues/25) in [ThysBat/worldbuilding-tool](https://github.com/ThysBat/worldbuilding-tool)
-2. 💪 Opened PR [#42](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/42) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-3. 🎉 Merged PR [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/41) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-4. 🗣 Commented on [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/41) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-5. 🗣 Commented on [#16](https://github.com/vaupunkt/cbaspCompanion/issues/16) in [vaupunkt/cbaspCompanion](https://github.com/vaupunkt/cbaspCompanion)
+1. 🎉 Merged PR [#42](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/42) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+2. 🗣 Commented on [#25](https://github.com/ThysBat/worldbuilding-tool/issues/25) in [ThysBat/worldbuilding-tool](https://github.com/ThysBat/worldbuilding-tool)
+3. 💪 Opened PR [#42](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/42) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+4. 🎉 Merged PR [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/41) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🗣 Commented on [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/41) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
