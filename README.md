@@ -388,10 +388,10 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#42](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/42) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-2. 🗣 Commented on [#25](https://github.com/ThysBat/worldbuilding-tool/issues/25) in [ThysBat/worldbuilding-tool](https://github.com/ThysBat/worldbuilding-tool)
+2. 🗣 Commented on [#25](https://github.com/ThysBat/worldbuilding-tool/pull/25#issuecomment-1630479421) in [ThysBat/worldbuilding-tool](https://github.com/ThysBat/worldbuilding-tool)
 3. 💪 Opened PR [#42](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/42) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 4. 🎉 Merged PR [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/41) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
-5. 🗣 Commented on [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/issues/41) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
+5. 🗣 Commented on [#41](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer/pull/41#issuecomment-1629005687) in [dimitriosxmi/ArtistsReferenceOrganizer](https://github.com/dimitriosxmi/ArtistsReferenceOrganizer)
 <!--END_SECTION:activity-->
 </details>
 
