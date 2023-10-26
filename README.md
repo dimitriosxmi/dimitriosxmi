@@ -204,11 +204,14 @@
     <a href="https://github.com/dimitriosxmi/DimisFunbox">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=DimisFunbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="dimisfunxbox repo"/>
     </a>
+    <a href="https://github.com/dimitriosxmi/Blocka-Puncha">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=Blocka-Puncha&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="Blocka-Puncha repo"/>
+    </a>
   </p>
   <h6>Web Development Projects</h6>
   <p align="left">
-    <a href="https://github.com/dimitriosxmi/personal-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="personal website repo"/>
+    <a href="https://github.com/dimitriosxmi/ArtistsReferenceOrganizer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=ArtistsReferenceOrganizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="Artists Reference Organizer (old Prototype)"/>
     </a>
     <a href="https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=Recap-Project-I-Quiz-App-Layout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="small quiz app project for bootcamp repo"/>
