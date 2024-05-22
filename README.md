@@ -1,4 +1,4 @@
-| <h3 align="center">Heyo! :wave: I'm</h3><p align="center"><a href="https://github.com/dimitriosxmi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0.1&pause=60000&color=E66780&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Dimitrios+Kitsikidis" alt="Dimitrios Kitsikidis" /></p><p align="center"><!--Font Size: 20, Duration: 4500, Pause 1000, Width X Height: 600 X 25, Horizontally Centered: true, Vertically Centered: true Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast, Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace.--><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4500&pause=1000&color=E66780&center=true&vCenter=true&width=600&height=25&lines=Full-stack+web+developer;Hobbyist+game+developer;%2B4+years+of+coding+experience;Organizational+systems+enthusiast;Consistently+acquiring+new+skills;Efficiency+and+productivity+enthusiast;On+a+quest+to+find+my+holy+inner+peace." alt="Showcase of various phrases reveland to me such as these: Full-stack web developer, Hobbyist game developer, +4 years of coding experience, Organizational systems enthusiast, Consistently acquiring new skills, Efficiency and productivity enthusiast, On a quest to find my holy inner peace." /></p><p align="center"><a href="https://www.linkedin.com/in/dimitrios-kitsikidis-450832182/"><img alt="linked in logo" src="https://user-images.githubusercontent.com/31593501/236114973-a6002e92-f115-4b33-8091-1c6a250aeb0e.svg" height="40px" padding-left="10px"/></a>&emsp;&emsp;<a href="https://www.twitch.tv/dimitriosxmi"><img alt="twitch.tv logo" src="https://user-images.githubusercontent.com/31593501/236114976-ae36af1b-5ed0-4e0e-888c-fae39d9c7087.svg" height="40px"/></a>&emsp;&emsp;<a href="https://www.instagram.com/dimitriosxmi/"><img alt="instagram logo" src="https://user-images.githubusercontent.com/31593501/236114971-0d3fc75d-b0ac-4339-9b41-7bbbac0bc5a6.svg" height="40px"/></a>&emsp;&emsp;<a href="https://twitter.com/dimitriosxmi"><img alt="twitter logo" src="https://user-images.githubusercontent.com/31593501/236114970-9f722634-96fc-422e-90d5-c27bb4ef10bd.svg" height="40px"/></a>&emsp;&emsp;<a href="https://linktr.ee/dimitriosxmi"><img alt="linktree logo" src="https://user-images.githubusercontent.com/31593501/236114974-28336211-49ae-4f8b-a129-d1f54eadeca5.svg" height="40px"/></a></p><sup><h6 align="center">In case of certain media buttons not working properly, use the link tree button which will always contain the most up to date links</h6></sup> | <h3>Contents</h3><!--<p><a href="#------introduction-----">Introduction 👋</a></p>--><p><a href="#------projects-----">Projects 🍰</a></p><p><a href="#------favourite-tools-----">Favourite Tools 🔧</a></p><p><a href="#------github-stats-and-activity-----">Github Stats and Activity 📊</a></p> |
+| <h3 align="center">Heyo! :wave: I'm</h3><p align="center"><a href="https://github.com/dimitriosxmi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=0.1&pause=60000&color=E66780&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Dimitrios+Kitsikidis" alt="Dimitrios Kitsikidis" /></p><p align="center"><!--Font Size: 20, Duration: 3000, Pause 2000, Width X Height: 600 X 25, Horizontally Centered: true, Vertically Centered: true Full-stack web developer, Software developer, Hobbyist game developer, +5 years of coding experience, Organizational systems enthusiast, On a quest to find my holy inner peace.--><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=E66780&center=true&vCenter=true&width=600&height=25&lines=Full-stack+web+developer;Software+developer;Hobbyist+game+developer;%2B5+years+of+coding+experience;Organizational+systems+enthusiast;On+a+quest+to+find+my+holy+inner+peace." alt="Showcase of various phrases reveland to me such as these: Full-stack web developer,Software developer, Hobbyist game developer, +5 years of coding experience, Organizational systems enthusiast, On a quest to find my holy inner peace." /></p><p align="center"><a href="https://www.linkedin.com/in/dimitrios-kitsikidis-450832182/"><img alt="linked in logo" src="https://user-images.githubusercontent.com/31593501/236114973-a6002e92-f115-4b33-8091-1c6a250aeb0e.svg" height="40px" padding-left="10px"/></a>&emsp;&emsp;<a href="https://www.twitch.tv/dimitriosxmi"><img alt="twitch.tv logo" src="https://user-images.githubusercontent.com/31593501/236114976-ae36af1b-5ed0-4e0e-888c-fae39d9c7087.svg" height="40px"/></a>&emsp;&emsp;<a href="https://www.instagram.com/dimitriosxmi/"><img alt="instagram logo" src="https://user-images.githubusercontent.com/31593501/236114971-0d3fc75d-b0ac-4339-9b41-7bbbac0bc5a6.svg" height="40px"/></a>&emsp;&emsp;<a href="https://twitter.com/dimitriosxmi"><img alt="twitter logo" src="https://user-images.githubusercontent.com/31593501/236114970-9f722634-96fc-422e-90d5-c27bb4ef10bd.svg" height="40px"/></a>&emsp;&emsp;<a href="https://linktr.ee/dimitriosxmi"><img alt="linktree logo" src="https://user-images.githubusercontent.com/31593501/236114974-28336211-49ae-4f8b-a129-d1f54eadeca5.svg" height="40px"/></a></p><sup><h6 align="center">In case of certain media buttons not working properly, use the link tree button which will always contain the most up to date links</h6></sup> | <h3>Contents</h3><!--<p><a href="#------introduction-----">Introduction 👋</a></p>--><p><a href="#------projects-----">Projects 🍰</a></p><p><a href="#------tools-----">Tools 🔧</a></p><p><a href="#------github-stats-and-activity-----">Github Stats and Activity 📊</a></p> |
 | :---: | :---: |
 
 <!--<h2 align="center">
@@ -188,7 +188,7 @@
   </p>
   </details>-->
 
-<details open>
+<!--<details open>
   <summary>
     <h3>
       Projects 🍰
@@ -213,16 +213,16 @@
     <a href="https://github.com/dimitriosxmi/ArtistsReferenceOrganizer">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=ArtistsReferenceOrganizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="Artists Reference Organizer (old Prototype)"/>
     </a>
-    <!--<a href="https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout">
+    <a href="https://github.com/dimitriosxmi/Recap-Project-I-Quiz-App-Layout">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitriosxmi&repo=Recap-Project-I-Quiz-App-Layout&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=15000" alt="small quiz app project for bootcamp repo"/>
-    </a>-->
+    </a>
   </p>
-</details>
+</details>-->
 
 <details>
   <summary>
     <h3>
-      Favourite Tools 🔧
+      Tools 🔧
     </h3>
     <a href="#contents">
       <sup>
